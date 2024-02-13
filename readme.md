@@ -37,7 +37,7 @@ mojo({
     {
       capsule: capsuleExample,
       options: {
-        rounded: 5, // Border radius
+        rounded: "full", // Border radius
         px: 6, // Padding left and right
         height: "2.5rem", //  Button Height
         text: 100, // Font size (100 = 1rem)
