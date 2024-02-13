@@ -1,0 +1,26 @@
+{
+  "name": "@mojocss/capsule-example",
+  "version": "1.0.0",
+  "description": "An example capsule showcasing how to create components, use options, add utilities to Mojo CSS.",
+  "main": "index.js",
+  "author": "Mojo CSS framework team. mojocss.com",
+  "license": "MIT",
+  "type": "module",
+  "unpkg": "dist/cdn.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojocss/mojocss-capsule-example.git"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": [
+    "mojocss",
+    "capsule",
+    "example"
+  ]
+}
